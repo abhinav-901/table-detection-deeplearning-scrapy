@@ -1,0 +1,1083 @@
+<div class="page" id="content">
+
+
+                <h1 class="">The Official List (Listed Companies)</h1>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+				<div class="primary">
+
+                <!-- start content -->
+
+
+				
+
+
+
+
+
+        <p>View ASX listed companies sorted by company name. Alternatively, <a href="/asx/research/ASXListedCompanies.csv" target="_blank">download the complete list</a>. This list is updated at approx. 12am (midnight) after each trading day.</p>
+    
+ 
+
+<!-- START PRIMARY -->
+
+<!-- Listed companies contents start here -->
+
+
+
+  <p><a href="listedCompanies.do?coName=0-9">0-9</a> | <a href="listedCompanies.do?coName=A">A</a> | <a href="listedCompanies.do?coName=B">B</a> | <a href="listedCompanies.do?coName=C">C</a> | <a href="listedCompanies.do?coName=D">D</a> | <a href="listedCompanies.do?coName=E">E</a> | <a href="listedCompanies.do?coName=F">F</a> | <a href="listedCompanies.do?coName=G">G</a> | <a href="listedCompanies.do?coName=H">H</a> | <a href="listedCompanies.do?coName=I">I</a> | <a href="listedCompanies.do?coName=J">J</a> | <a href="listedCompanies.do?coName=K">K</a> | <a href="listedCompanies.do?coName=L">L</a> | <a href="listedCompanies.do?coName=M">M</a> | <a href="listedCompanies.do?coName=N">N</a> | <a href="listedCompanies.do?coName=O">O</a> | <a href="listedCompanies.do?coName=P">P</a> | <a href="listedCompanies.do?coName=Q">Q</a> | <a href="listedCompanies.do?coName=R">R</a> | <a href="listedCompanies.do?coName=S">S</a> | <a href="listedCompanies.do?coName=T">T</a> | <a href="listedCompanies.do?coName=U">U</a> | <a href="listedCompanies.do?coName=V">V</a> | <a href="listedCompanies.do?coName=W">W</a> | <a href="listedCompanies.do?coName=X">X</a> | <a href="listedCompanies.do?coName=Y">Y</a> | <a href="listedCompanies.do?coName=Z">Z</a>
+  </p>
+  <table cellspacing="0" class="contenttable">
+    <tr>
+       <th scope="col"><a href="JavaScript:showColumnDesc('/clickable/companyname.htm',%20'')">Company name</a></th>
+       <th scope="col"><a href="JavaScript:showColumnDesc('/clickable/code.htm',%20'')">ASX code</a></th>
+       <th scope="col"><a href="JavaScript:showColumnDesc('/clickable/GICS_IndGroup.htm',%20'')">GICS industry group</a></th>
+    </tr>
+    <tr>
+	</tr><tr>
+	  <td>A-CAP ENERGY LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ACB')" href="/asx/share-price-research/company/ACB">ACB</a></td>
+	  <td>Energy</td>
+    </tr><tr>
+	  <td>A1 INVESTMENTS &amp; RESOURCES LTD</td>
+	  <td><a onclick="trackAsxCodeClick('AYI')" href="/asx/share-price-research/company/AYI">AYI</a></td>
+	  <td>Diversified Financials</td>
+    </tr><tr>
+	  <td>A2B AUSTRALIA LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('A2B')" href="/asx/share-price-research/company/A2B">A2B</a></td>
+	  <td>Transportation</td>
+    </tr><tr>
+	  <td>ABACUS PROPERTY GROUP</td>
+	  <td><a onclick="trackAsxCodeClick('ABP')" href="/asx/share-price-research/company/ABP">ABP</a></td>
+	  <td>Real Estate</td>
+    </tr><tr>
+	  <td>ABILENE OIL AND GAS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ABL')" href="/asx/share-price-research/company/ABL">ABL</a></td>
+	  <td>Energy</td>
+    </tr><tr>
+	  <td>ABSOLUTE EQUITY PERFORMANCE FUND LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AEG')" href="/asx/share-price-research/company/AEG">AEG</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>ABUNDANT PRODUCE LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ABT')" href="/asx/share-price-research/company/ABT">ABT</a></td>
+	  <td>Food, Beverage &amp; Tobacco</td>
+    </tr><tr>
+	  <td>ACACIA COAL LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AJC')" href="/asx/share-price-research/company/AJC">AJC</a></td>
+	  <td>Energy</td>
+    </tr><tr>
+	  <td>ACADEMIES AUSTRALASIA GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AKG')" href="/asx/share-price-research/company/AKG">AKG</a></td>
+	  <td>Consumer Services</td>
+    </tr><tr>
+	  <td>ACCELERATE RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AX8')" href="/asx/share-price-research/company/AX8">AX8</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ACCENT GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AX1')" href="/asx/share-price-research/company/AX1">AX1</a></td>
+	  <td>Retailing</td>
+    </tr><tr>
+	  <td>ACCENT RESOURCES NL</td>
+	  <td><a onclick="trackAsxCodeClick('ACS')" href="/asx/share-price-research/company/ACS">ACS</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ACORN CAPITAL INVESTMENT FUND LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ACQ')" href="/asx/share-price-research/company/ACQ">ACQ</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>ACROW FORMWORK AND CONSTRUCTION SERVICES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ACF')" href="/asx/share-price-research/company/ACF">ACF</a></td>
+	  <td>Capital Goods</td>
+    </tr><tr>
+	  <td>ACRUX LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ACR')" href="/asx/share-price-research/company/ACR">ACR</a></td>
+	  <td>Pharmaceuticals, Biotechnology &amp; Life Sciences</td>
+    </tr><tr>
+	  <td>ACTINOGEN MEDICAL LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ACW')" href="/asx/share-price-research/company/ACW">ACW</a></td>
+	  <td>Pharmaceuticals, Biotechnology &amp; Life Sciences</td>
+    </tr><tr>
+	  <td>ACTIVEX LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AIV')" href="/asx/share-price-research/company/AIV">AIV</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ACUMENTIS GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ACU')" href="/asx/share-price-research/company/ACU">ACU</a></td>
+	  <td>Real Estate</td>
+    </tr><tr>
+	  <td>AD1 HOLDINGS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AD1')" href="/asx/share-price-research/company/AD1">AD1</a></td>
+	  <td>Media &amp; Entertainment</td>
+    </tr><tr>
+	  <td>ADACEL TECHNOLOGIES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ADA')" href="/asx/share-price-research/company/ADA">ADA</a></td>
+	  <td>Software &amp; Services</td>
+    </tr><tr>
+	  <td>ADAIRS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ADH')" href="/asx/share-price-research/company/ADH">ADH</a></td>
+	  <td>Retailing</td>
+    </tr><tr>
+	  <td>ADALTA LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('1AD')" href="/asx/share-price-research/company/1AD">1AD</a></td>
+	  <td>Pharmaceuticals, Biotechnology &amp; Life Sciences</td>
+    </tr><tr>
+	  <td>ADAVALE RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ADD')" href="/asx/share-price-research/company/ADD">ADD</a></td>
+	  <td>Energy</td>
+    </tr><tr>
+	  <td>ADELAIDE BRIGHTON LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ABC')" href="/asx/share-price-research/company/ABC">ABC</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ADHERIUM LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ADR')" href="/asx/share-price-research/company/ADR">ADR</a></td>
+	  <td>Health Care Equipment &amp; Services</td>
+    </tr><tr>
+	  <td>ADMEDUS LTD</td>
+	  <td><a onclick="trackAsxCodeClick('AHZ')" href="/asx/share-price-research/company/AHZ">AHZ</a></td>
+	  <td>Health Care Equipment &amp; Services</td>
+    </tr><tr>
+	  <td>ADMIRALTY RESOURCES NL.</td>
+	  <td><a onclick="trackAsxCodeClick('ADY')" href="/asx/share-price-research/company/ADY">ADY</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ADRIATIC METALS PLC</td>
+	  <td><a onclick="trackAsxCodeClick('ADT')" href="/asx/share-price-research/company/ADT">ADT</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ADSLOT LTD</td>
+	  <td><a onclick="trackAsxCodeClick('ADJ')" href="/asx/share-price-research/company/ADJ">ADJ</a></td>
+	  <td>Software &amp; Services</td>
+    </tr><tr>
+	  <td>ADVANCE NANOTEK LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ANO')" href="/asx/share-price-research/company/ANO">ANO</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ADVANCED BRAKING TECHNOLOGY LTD</td>
+	  <td><a onclick="trackAsxCodeClick('ABV')" href="/asx/share-price-research/company/ABV">ABV</a></td>
+	  <td>Automobiles &amp; Components</td>
+    </tr><tr>
+	  <td>ADVANCED SHARE REGISTRY LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ASW')" href="/asx/share-price-research/company/ASW">ASW</a></td>
+	  <td>Diversified Financials</td>
+    </tr><tr>
+	  <td>ADVERITAS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AV1')" href="/asx/share-price-research/company/AV1">AV1</a></td>
+	  <td>Software &amp; Services</td>
+    </tr><tr>
+	  <td>ADX ENERGY LTD</td>
+	  <td><a onclick="trackAsxCodeClick('ADX')" href="/asx/share-price-research/company/ADX">ADX</a></td>
+	  <td>Energy</td>
+    </tr><tr>
+	  <td>AEERIS LTD</td>
+	  <td><a onclick="trackAsxCodeClick('AER')" href="/asx/share-price-research/company/AER">AER</a></td>
+	  <td>Media &amp; Entertainment</td>
+    </tr><tr>
+	  <td>AEON METALS LIMITED.</td>
+	  <td><a onclick="trackAsxCodeClick('AML')" href="/asx/share-price-research/company/AML">AML</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AERIS ENVIRONMENTAL LTD</td>
+	  <td><a onclick="trackAsxCodeClick('AEI')" href="/asx/share-price-research/company/AEI">AEI</a></td>
+	  <td>Commercial &amp; Professional Services</td>
+    </tr><tr>
+	  <td>AERIS RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AIS')" href="/asx/share-price-research/company/AIS">AIS</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AEROMETREX LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AMX')" href="/asx/share-price-research/company/AMX">AMX</a></td>
+	  <td>Commercial &amp; Professional Services</td>
+    </tr><tr>
+	  <td>AF LEGAL GROUP LTD</td>
+	  <td><a onclick="trackAsxCodeClick('AFL')" href="/asx/share-price-research/company/AFL">AFL</a></td>
+	  <td>Commercial &amp; Professional Services</td>
+    </tr><tr>
+	  <td>AFFINITY ENERGY AND HEALTH LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AEB')" href="/asx/share-price-research/company/AEB">AEB</a></td>
+	  <td>Pharmaceuticals, Biotechnology &amp; Life Sciences</td>
+    </tr><tr>
+	  <td>AFG 2019-2 TRUST IN RESPECT OF SERIES 2019-2</td>
+	  <td><a onclick="trackAsxCodeClick('AF1')" href="/asx/share-price-research/company/AF1">AF1</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>AFRICAN ENERGY RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AFR')" href="/asx/share-price-research/company/AFR">AFR</a></td>
+	  <td>Energy</td>
+    </tr><tr>
+	  <td>AFRICAN GOLD LTD.</td>
+	  <td><a onclick="trackAsxCodeClick('A1G')" href="/asx/share-price-research/company/A1G">A1G</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AFT CORPORATION LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AFT')" href="/asx/share-price-research/company/AFT">AFT</a></td>
+	  <td>Technology Hardware &amp; Equipment</td>
+    </tr><tr>
+	  <td>AFT PHARMACEUTICALS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AFP')" href="/asx/share-price-research/company/AFP">AFP</a></td>
+	  <td>Pharmaceuticals, Biotechnology &amp; Life Sciences</td>
+    </tr><tr>
+	  <td>AFTERPAY LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('APT')" href="/asx/share-price-research/company/APT">APT</a></td>
+	  <td>Software &amp; Services</td>
+    </tr><tr>
+	  <td>AGL ENERGY LIMITED.</td>
+	  <td><a onclick="trackAsxCodeClick('AGL')" href="/asx/share-price-research/company/AGL">AGL</a></td>
+	  <td>Utilities</td>
+    </tr><tr>
+	  <td>AGRICULTURAL LAND TRUST</td>
+	  <td><a onclick="trackAsxCodeClick('AGJ')" href="/asx/share-price-research/company/AGJ">AGJ</a></td>
+	  <td>Real Estate</td>
+    </tr><tr>
+	  <td>AGRIMIN LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AMN')" href="/asx/share-price-research/company/AMN">AMN</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AGUIA RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AGR')" href="/asx/share-price-research/company/AGR">AGR</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AHALIFE HOLDINGS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AHL')" href="/asx/share-price-research/company/AHL">AHL</a></td>
+	  <td>Retailing</td>
+    </tr><tr>
+	  <td>AIC MINES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('A1M')" href="/asx/share-price-research/company/A1M">A1M</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AIMS PROPERTY SECURITIES FUND</td>
+	  <td><a onclick="trackAsxCodeClick('APW')" href="/asx/share-price-research/company/APW">APW</a></td>
+	  <td>Real Estate</td>
+    </tr><tr>
+	  <td>AINSWORTH GAME TECHNOLOGY LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AGI')" href="/asx/share-price-research/company/AGI">AGI</a></td>
+	  <td>Consumer Services</td>
+    </tr><tr>
+	  <td>AIR NEW ZEALAND LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AIZ')" href="/asx/share-price-research/company/AIZ">AIZ</a></td>
+	  <td>Transportation</td>
+    </tr><tr>
+	  <td>AJ LUCAS GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AJL')" href="/asx/share-price-research/company/AJL">AJL</a></td>
+	  <td>Capital Goods</td>
+    </tr><tr>
+	  <td>ALACER GOLD CORP.</td>
+	  <td><a onclick="trackAsxCodeClick('AQG')" href="/asx/share-price-research/company/AQG">AQG</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALARA RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AUQ')" href="/asx/share-price-research/company/AUQ">AUQ</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALCHEMY RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ALY')" href="/asx/share-price-research/company/ALY">ALY</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALCIDION GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ALC')" href="/asx/share-price-research/company/ALC">ALC</a></td>
+	  <td>Health Care Equipment &amp; Services</td>
+    </tr><tr>
+	  <td>ALDERAN RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AL8')" href="/asx/share-price-research/company/AL8">AL8</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALDORO RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ARN')" href="/asx/share-price-research/company/ARN">ARN</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALE PROPERTY GROUP</td>
+	  <td><a onclick="trackAsxCodeClick('LEP')" href="/asx/share-price-research/company/LEP">LEP</a></td>
+	  <td>Real Estate</td>
+    </tr><tr>
+	  <td>ALEXIUM INTERNATIONAL GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AJX')" href="/asx/share-price-research/company/AJX">AJX</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALICANTO MINERALS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AQI')" href="/asx/share-price-research/company/AQI">AQI</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALICE QUEEN LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AQX')" href="/asx/share-price-research/company/AQX">AQX</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALITA RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('A40')" href="/asx/share-price-research/company/A40">A40</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALKANE RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ALK')" href="/asx/share-price-research/company/ALK">ALK</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALLEGIANCE COAL LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AHQ')" href="/asx/share-price-research/company/AHQ">AHQ</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALLEGRA ORTHOPAEDICS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AMT')" href="/asx/share-price-research/company/AMT">AMT</a></td>
+	  <td>Health Care Equipment &amp; Services</td>
+    </tr><tr>
+	  <td>ALLIANCE AVIATION SERVICES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AQZ')" href="/asx/share-price-research/company/AQZ">AQZ</a></td>
+	  <td>Transportation</td>
+    </tr><tr>
+	  <td>ALLIANCE RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AGS')" href="/asx/share-price-research/company/AGS">AGS</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALLIGATOR ENERGY LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AGE')" href="/asx/share-price-research/company/AGE">AGE</a></td>
+	  <td>Energy</td>
+    </tr><tr>
+	  <td>ALLOY RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AYR')" href="/asx/share-price-research/company/AYR">AYR</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALPHA HPA LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('A4N')" href="/asx/share-price-research/company/A4N">A4N</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ALQ')" href="/asx/share-price-research/company/ALQ">ALQ</a></td>
+	  <td>Commercial &amp; Professional Services</td>
+    </tr><tr>
+	  <td>ALT RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ARS')" href="/asx/share-price-research/company/ARS">ARS</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALTA ZINC LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AZI')" href="/asx/share-price-research/company/AZI">AZI</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALTECH CHEMICALS LTD</td>
+	  <td><a onclick="trackAsxCodeClick('ATC')" href="/asx/share-price-research/company/ATC">ATC</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALTERITY THERAPEUTICS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ATH')" href="/asx/share-price-research/company/ATH">ATH</a></td>
+	  <td>Pharmaceuticals, Biotechnology &amp; Life Sciences</td>
+    </tr><tr>
+	  <td>ALTERNATIVE INVESTMENT TRUST</td>
+	  <td><a onclick="trackAsxCodeClick('AIQ')" href="/asx/share-price-research/company/AIQ">AIQ</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>ALTERRA LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('1AG')" href="/asx/share-price-research/company/1AG">1AG</a></td>
+	  <td>Commercial &amp; Professional Services</td>
+    </tr><tr>
+	  <td>ALTHEA GROUP HOLDINGS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AGH')" href="/asx/share-price-research/company/AGH">AGH</a></td>
+	  <td>Pharmaceuticals, Biotechnology &amp; Life Sciences</td>
+    </tr><tr>
+	  <td>ALTIUM LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ALU')" href="/asx/share-price-research/company/ALU">ALU</a></td>
+	  <td>Software &amp; Services</td>
+    </tr><tr>
+	  <td>ALTO METALS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AME')" href="/asx/share-price-research/company/AME">AME</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALTURA MINING LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AJM')" href="/asx/share-price-research/company/AJM">AJM</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ALUMINA LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AWC')" href="/asx/share-price-research/company/AWC">AWC</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AMA GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AMA')" href="/asx/share-price-research/company/AMA">AMA</a></td>
+	  <td>Commercial &amp; Professional Services</td>
+    </tr><tr>
+	  <td>AMAERO INTERNATIONAL LTD</td>
+	  <td><a onclick="trackAsxCodeClick('3DA')" href="/asx/share-price-research/company/3DA">3DA</a></td>
+	  <td>Capital Goods</td>
+    </tr><tr>
+	  <td>AMANI GOLD LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ANL')" href="/asx/share-price-research/company/ANL">ANL</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AMAYSIM AUSTRALIA LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AYS')" href="/asx/share-price-research/company/AYS">AYS</a></td>
+	  <td>Telecommunication Services</td>
+    </tr><tr>
+	  <td>AMBERTECH LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AMO')" href="/asx/share-price-research/company/AMO">AMO</a></td>
+	  <td>Technology Hardware &amp; Equipment</td>
+    </tr><tr>
+	  <td>AMBITION GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AMB')" href="/asx/share-price-research/company/AMB">AMB</a></td>
+	  <td>Commercial &amp; Professional Services</td>
+    </tr><tr>
+	  <td>AMCIL LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AMH')" href="/asx/share-price-research/company/AMH">AMH</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>AMCOR PLC</td>
+	  <td><a onclick="trackAsxCodeClick('AMC')" href="/asx/share-price-research/company/AMC">AMC</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AMERICAN PACIFIC BORATES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ABR')" href="/asx/share-price-research/company/ABR">ABR</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AMERICAN PATRIOT OIL &amp; GAS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AOW')" href="/asx/share-price-research/company/AOW">AOW</a></td>
+	  <td>Energy</td>
+    </tr><tr>
+	  <td>AML3D LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AL3')" href="/asx/share-price-research/company/AL3">AL3</a></td>
+	  <td>Class Pend</td>
+    </tr><tr>
+	  <td>AMP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AMP')" href="/asx/share-price-research/company/AMP">AMP</a></td>
+	  <td>Diversified Financials</td>
+    </tr><tr>
+	  <td>AMPLIA THERAPEUTICS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ATX')" href="/asx/share-price-research/company/ATX">ATX</a></td>
+	  <td>Pharmaceuticals, Biotechnology &amp; Life Sciences</td>
+    </tr><tr>
+	  <td>ANALYTICA LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ALT')" href="/asx/share-price-research/company/ALT">ALT</a></td>
+	  <td>Health Care Equipment &amp; Services</td>
+    </tr><tr>
+	  <td>ANATARA LIFESCIENCES LTD</td>
+	  <td><a onclick="trackAsxCodeClick('ANR')" href="/asx/share-price-research/company/ANR">ANR</a></td>
+	  <td>Pharmaceuticals, Biotechnology &amp; Life Sciences</td>
+    </tr><tr>
+	  <td>ANDROMEDA METALS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ADN')" href="/asx/share-price-research/company/ADN">ADN</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ANEKA TAMBANG (PERSERO) TBK (PT)</td>
+	  <td><a onclick="trackAsxCodeClick('ATM')" href="/asx/share-price-research/company/ATM">ATM</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ANGEL SEAFOOD HOLDINGS LTD</td>
+	  <td><a onclick="trackAsxCodeClick('AS1')" href="/asx/share-price-research/company/AS1">AS1</a></td>
+	  <td>Food, Beverage &amp; Tobacco</td>
+    </tr><tr>
+	  <td>ANGLO AUSTRALIAN RESOURCES NL</td>
+	  <td><a onclick="trackAsxCodeClick('AAR')" href="/asx/share-price-research/company/AAR">AAR</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ANGLOGOLD ASHANTI LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AGG')" href="/asx/share-price-research/company/AGG">AGG</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ANOVA METALS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AWV')" href="/asx/share-price-research/company/AWV">AWV</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ANSELL LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ANN')" href="/asx/share-price-research/company/ANN">ANN</a></td>
+	  <td>Health Care Equipment &amp; Services</td>
+    </tr><tr>
+	  <td>ANSILA ENERGY NL</td>
+	  <td><a onclick="trackAsxCodeClick('ANA')" href="/asx/share-price-research/company/ANA">ANA</a></td>
+	  <td>Energy</td>
+    </tr><tr>
+	  <td>ANSON RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ASN')" href="/asx/share-price-research/company/ASN">ASN</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ANTEOTECH LTD</td>
+	  <td><a onclick="trackAsxCodeClick('ADO')" href="/asx/share-price-research/company/ADO">ADO</a></td>
+	  <td>Pharmaceuticals, Biotechnology &amp; Life Sciences</td>
+    </tr><tr>
+	  <td>ANTIPA MINERALS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AZY')" href="/asx/share-price-research/company/AZY">AZY</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ANTIPODES GLOBAL INVESTMENT COMPANY LTD</td>
+	  <td><a onclick="trackAsxCodeClick('APL')" href="/asx/share-price-research/company/APL">APL</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>ANTISENSE THERAPEUTICS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ANP')" href="/asx/share-price-research/company/ANP">ANP</a></td>
+	  <td>Pharmaceuticals, Biotechnology &amp; Life Sciences</td>
+    </tr><tr>
+	  <td>AP EAGERS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('APE')" href="/asx/share-price-research/company/APE">APE</a></td>
+	  <td>Retailing</td>
+    </tr><tr>
+	  <td>APA GROUP</td>
+	  <td><a onclick="trackAsxCodeClick('APA')" href="/asx/share-price-research/company/APA">APA</a></td>
+	  <td>Utilities</td>
+    </tr><tr>
+	  <td>APIAM ANIMAL HEALTH LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AHX')" href="/asx/share-price-research/company/AHX">AHX</a></td>
+	  <td>Health Care Equipment &amp; Services</td>
+    </tr><tr>
+	  <td>APN CONVENIENCE RETAIL REIT</td>
+	  <td><a onclick="trackAsxCodeClick('AQR')" href="/asx/share-price-research/company/AQR">AQR</a></td>
+	  <td>Real Estate</td>
+    </tr><tr>
+	  <td>APN INDUSTRIA REIT</td>
+	  <td><a onclick="trackAsxCodeClick('ADI')" href="/asx/share-price-research/company/ADI">ADI</a></td>
+	  <td>Real Estate</td>
+    </tr><tr>
+	  <td>APN PROPERTY GROUP</td>
+	  <td><a onclick="trackAsxCodeClick('APD')" href="/asx/share-price-research/company/APD">APD</a></td>
+	  <td>Diversified Financials</td>
+    </tr><tr>
+	  <td>APOLLO CONSOLIDATED LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AOP')" href="/asx/share-price-research/company/AOP">AOP</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>APOLLO MINERALS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AON')" href="/asx/share-price-research/company/AON">AON</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>APOLLO SERIES 2010-1 TRUST</td>
+	  <td><a onclick="trackAsxCodeClick('AOJ')" href="/asx/share-price-research/company/AOJ">AOJ</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>APOLLO SERIES 2013-1 TRUST</td>
+	  <td><a onclick="trackAsxCodeClick('AOR')" href="/asx/share-price-research/company/AOR">AOR</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>APOLLO SERIES 2015-1 TRUST</td>
+	  <td><a onclick="trackAsxCodeClick('AOL')" href="/asx/share-price-research/company/AOL">AOL</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>APOLLO SERIES 2017-2 TRUST</td>
+	  <td><a onclick="trackAsxCodeClick('AO2')" href="/asx/share-price-research/company/AO2">AO2</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>APOLLO SERIES 2018-1 TRUST</td>
+	  <td><a onclick="trackAsxCodeClick('AO3')" href="/asx/share-price-research/company/AO3">AO3</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>APOLLO TOURISM &amp; LEISURE LTD</td>
+	  <td><a onclick="trackAsxCodeClick('ATL')" href="/asx/share-price-research/company/ATL">ATL</a></td>
+	  <td>Automobiles &amp; Components</td>
+    </tr><tr>
+	  <td>APPEN LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('APX')" href="/asx/share-price-research/company/APX">APX</a></td>
+	  <td>Software &amp; Services</td>
+    </tr><tr>
+	  <td>APPSVILLAGE AUSTRALIA LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('APV')" href="/asx/share-price-research/company/APV">APV</a></td>
+	  <td>Software &amp; Services</td>
+    </tr><tr>
+	  <td>AQUIS ENTERTAINMENT LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AQS')" href="/asx/share-price-research/company/AQS">AQS</a></td>
+	  <td>Consumer Services</td>
+    </tr><tr>
+	  <td>ARAFURA RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ARU')" href="/asx/share-price-research/company/ARU">ARU</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ARB CORPORATION LIMITED.</td>
+	  <td><a onclick="trackAsxCodeClick('ARB')" href="/asx/share-price-research/company/ARB">ARB</a></td>
+	  <td>Automobiles &amp; Components</td>
+    </tr><tr>
+	  <td>ARCHER MATERIALS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AXE')" href="/asx/share-price-research/company/AXE">AXE</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ARCHTIS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AR9')" href="/asx/share-price-research/company/AR9">AR9</a></td>
+	  <td>Software &amp; Services</td>
+    </tr><tr>
+	  <td>ARDEA RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ARL')" href="/asx/share-price-research/company/ARL">ARL</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ARDENT LEISURE GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ALG')" href="/asx/share-price-research/company/ALG">ALG</a></td>
+	  <td>Consumer Services</td>
+    </tr><tr>
+	  <td>ARDIDEN LTD</td>
+	  <td><a onclick="trackAsxCodeClick('ADV')" href="/asx/share-price-research/company/ADV">ADV</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ARENA REIT.</td>
+	  <td><a onclick="trackAsxCodeClick('ARF')" href="/asx/share-price-research/company/ARF">ARF</a></td>
+	  <td>Real Estate</td>
+    </tr><tr>
+	  <td>ARGENT MINERALS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ARD')" href="/asx/share-price-research/company/ARD">ARD</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ARGO EXPLORATION LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AXT')" href="/asx/share-price-research/company/AXT">AXT</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ARGO GLOBAL LISTED INFRASTRUCTURE LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ALI')" href="/asx/share-price-research/company/ALI">ALI</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>ARGO INVESTMENTS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ARG')" href="/asx/share-price-research/company/ARG">ARG</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>ARGONAUT RESOURCES NL</td>
+	  <td><a onclick="trackAsxCodeClick('ARE')" href="/asx/share-price-research/company/ARE">ARE</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ARGOSY MINERALS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AGY')" href="/asx/share-price-research/company/AGY">AGY</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ARIADNE AUSTRALIA LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ARA')" href="/asx/share-price-research/company/ARA">ARA</a></td>
+	  <td>Commercial &amp; Professional Services</td>
+    </tr><tr>
+	  <td>ARISTOCRAT LEISURE LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ALL')" href="/asx/share-price-research/company/ALL">ALL</a></td>
+	  <td>Consumer Services</td>
+    </tr><tr>
+	  <td>ARK MINES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AHK')" href="/asx/share-price-research/company/AHK">AHK</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ARMNET LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AR1')" href="/asx/share-price-research/company/AR1">AR1</a></td>
+	  <td>Class Pend</td>
+    </tr><tr>
+	  <td>ARMOUR ENERGY LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AJQ')" href="/asx/share-price-research/company/AJQ">AJQ</a></td>
+	  <td>Energy</td>
+    </tr><tr>
+	  <td>AROWANA INTERNATIONAL LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AWN')" href="/asx/share-price-research/company/AWN">AWN</a></td>
+	  <td>Capital Goods</td>
+    </tr><tr>
+	  <td>ARQ GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ARQ')" href="/asx/share-price-research/company/ARQ">ARQ</a></td>
+	  <td>Software &amp; Services</td>
+    </tr><tr>
+	  <td>ARROW MINERALS LTD</td>
+	  <td><a onclick="trackAsxCodeClick('AMD')" href="/asx/share-price-research/company/AMD">AMD</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ARTEMIS RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ARV')" href="/asx/share-price-research/company/ARV">ARV</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ARUMA RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AAJ')" href="/asx/share-price-research/company/AAJ">AAJ</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ASALEO CARE LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AHY')" href="/asx/share-price-research/company/AHY">AHY</a></td>
+	  <td>Household &amp; Personal Products</td>
+    </tr><tr>
+	  <td>ASAPLUS RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AJY')" href="/asx/share-price-research/company/AJY">AJY</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ASF GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AFA')" href="/asx/share-price-research/company/AFA">AFA</a></td>
+	  <td>Diversified Financials</td>
+    </tr><tr>
+	  <td>ASHLEY SERVICES GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ASH')" href="/asx/share-price-research/company/ASH">ASH</a></td>
+	  <td>Commercial &amp; Professional Services</td>
+    </tr><tr>
+	  <td>ASIAN AMERICAN MEDICAL GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AJJ')" href="/asx/share-price-research/company/AJJ">AJJ</a></td>
+	  <td>Health Care Equipment &amp; Services</td>
+    </tr><tr>
+	  <td>ASIAN DEVELOPMENT BANK</td>
+	  <td><a onclick="trackAsxCodeClick('ATB')" href="/asx/share-price-research/company/ATB">ATB</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>ASPEN GROUP</td>
+	  <td><a onclick="trackAsxCodeClick('APZ')" href="/asx/share-price-research/company/APZ">APZ</a></td>
+	  <td>Real Estate</td>
+    </tr><tr>
+	  <td>ASPERMONT LIMITED.</td>
+	  <td><a onclick="trackAsxCodeClick('ASP')" href="/asx/share-price-research/company/ASP">ASP</a></td>
+	  <td>Media &amp; Entertainment</td>
+    </tr><tr>
+	  <td>ASPIRE MINING LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AKM')" href="/asx/share-price-research/company/AKM">AKM</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ASSETOWL LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AO1')" href="/asx/share-price-research/company/AO1">AO1</a></td>
+	  <td>Software &amp; Services</td>
+    </tr><tr>
+	  <td>ASTIVITA LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AIR')" href="/asx/share-price-research/company/AIR">AIR</a></td>
+	  <td>Capital Goods</td>
+    </tr><tr>
+	  <td>ASTRO RESOURCES NL</td>
+	  <td><a onclick="trackAsxCodeClick('ARO')" href="/asx/share-price-research/company/ARO">ARO</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ASTRON CORPORATION LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ATR')" href="/asx/share-price-research/company/ATR">ATR</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ASX LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ASX')" href="/asx/share-price-research/company/ASX">ASX</a></td>
+	  <td>Diversified Financials</td>
+    </tr><tr>
+	  <td>ATHENA RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AHN')" href="/asx/share-price-research/company/AHN">AHN</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>ATLAS ARTERIA</td>
+	  <td><a onclick="trackAsxCodeClick('ALX')" href="/asx/share-price-research/company/ALX">ALX</a></td>
+	  <td>Transportation</td>
+    </tr><tr>
+	  <td>ATLAS PEARLS LTD</td>
+	  <td><a onclick="trackAsxCodeClick('ATP')" href="/asx/share-price-research/company/ATP">ATP</a></td>
+	  <td>Consumer Durables &amp; Apparel</td>
+    </tr><tr>
+	  <td>ATOMO DIAGNOSTICS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AT1')" href="/asx/share-price-research/company/AT1">AT1</a></td>
+	  <td>Class Pend</td>
+    </tr><tr>
+	  <td>ATOMOS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AMS')" href="/asx/share-price-research/company/AMS">AMS</a></td>
+	  <td>Consumer Durables &amp; Apparel</td>
+    </tr><tr>
+	  <td>ATRUM COAL LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ATU')" href="/asx/share-price-research/company/ATU">ATU</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUB GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AUB')" href="/asx/share-price-research/company/AUB">AUB</a></td>
+	  <td>Insurance</td>
+    </tr><tr>
+	  <td>AUCKLAND INTERNATIONAL AIRPORT LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AIA')" href="/asx/share-price-research/company/AIA">AIA</a></td>
+	  <td>Transportation</td>
+    </tr><tr>
+	  <td>AUCTUS ALTERNATIVE INVESTMENTS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AVC')" href="/asx/share-price-research/company/AVC">AVC</a></td>
+	  <td>Diversified Financials</td>
+    </tr><tr>
+	  <td>AUDALIA RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ACP')" href="/asx/share-price-research/company/ACP">ACP</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUDINATE GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AD8')" href="/asx/share-price-research/company/AD8">AD8</a></td>
+	  <td>Technology Hardware &amp; Equipment</td>
+    </tr><tr>
+	  <td>AUDIO PIXELS HOLDINGS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AKP')" href="/asx/share-price-research/company/AKP">AKP</a></td>
+	  <td>Consumer Durables &amp; Apparel</td>
+    </tr><tr>
+	  <td>AUKING MINING LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AKN')" href="/asx/share-price-research/company/AKN">AKN</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUMAKE INTERNATIONAL LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AU8')" href="/asx/share-price-research/company/AU8">AU8</a></td>
+	  <td>Retailing</td>
+    </tr><tr>
+	  <td>AURA ENERGY LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AEE')" href="/asx/share-price-research/company/AEE">AEE</a></td>
+	  <td>Energy</td>
+    </tr><tr>
+	  <td>AURELIA METALS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AMI')" href="/asx/share-price-research/company/AMI">AMI</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AURIS MINERALS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AUR')" href="/asx/share-price-research/company/AUR">AUR</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AURIZON HOLDINGS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AZJ')" href="/asx/share-price-research/company/AZJ">AZJ</a></td>
+	  <td>Transportation</td>
+    </tr><tr>
+	  <td>AUROCH MINERALS LTD</td>
+	  <td><a onclick="trackAsxCodeClick('AOU')" href="/asx/share-price-research/company/AOU">AOU</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AURORA ABSOLUTE RETURN FUND</td>
+	  <td><a onclick="trackAsxCodeClick('ABW')" href="/asx/share-price-research/company/ABW">ABW</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>AURORA GLOBAL INCOME TRUST</td>
+	  <td><a onclick="trackAsxCodeClick('AIB')" href="/asx/share-price-research/company/AIB">AIB</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>AURORA LABS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('A3D')" href="/asx/share-price-research/company/A3D">A3D</a></td>
+	  <td>Capital Goods</td>
+    </tr><tr>
+	  <td>AURORA MINERALS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ARM')" href="/asx/share-price-research/company/ARM">ARM</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AURORA PROPERTY BUY-WRITE INCOME TRUST</td>
+	  <td><a onclick="trackAsxCodeClick('AUP')" href="/asx/share-price-research/company/AUP">AUP</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>AUS TIN MINING LTD</td>
+	  <td><a onclick="trackAsxCodeClick('ANW')" href="/asx/share-price-research/company/ANW">ANW</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUSCANN GROUP HOLDINGS LTD</td>
+	  <td><a onclick="trackAsxCodeClick('AC8')" href="/asx/share-price-research/company/AC8">AC8</a></td>
+	  <td>Pharmaceuticals, Biotechnology &amp; Life Sciences</td>
+    </tr><tr>
+	  <td>AUSGOLD LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AUC')" href="/asx/share-price-research/company/AUC">AUC</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUSMEX MINING GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AMG')" href="/asx/share-price-research/company/AMG">AMG</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUSMON RESOURCES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AOA')" href="/asx/share-price-research/company/AOA">AOA</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUSNET SERVICES HOLDINGS PTY LTD</td>
+	  <td><a onclick="trackAsxCodeClick('ANV')" href="/asx/share-price-research/company/ANV">ANV</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>AUSNET SERVICES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AST')" href="/asx/share-price-research/company/AST">AST</a></td>
+	  <td>Utilities</td>
+    </tr><tr>
+	  <td>AUSQUEST LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AQD')" href="/asx/share-price-research/company/AQD">AQD</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUSTAL LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ASB')" href="/asx/share-price-research/company/ASB">ASB</a></td>
+	  <td>Capital Goods</td>
+    </tr><tr>
+	  <td>AUSTAR GOLD LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AUL')" href="/asx/share-price-research/company/AUL">AUL</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUSTCHINA HOLDINGS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AUH')" href="/asx/share-price-research/company/AUH">AUH</a></td>
+	  <td>Energy</td>
+    </tr><tr>
+	  <td>AUSTIN ENGINEERING LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ANG')" href="/asx/share-price-research/company/ANG">ANG</a></td>
+	  <td>Capital Goods</td>
+    </tr><tr>
+	  <td>AUSTPAC RESOURCES NL</td>
+	  <td><a onclick="trackAsxCodeClick('APG')" href="/asx/share-price-research/company/APG">APG</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUSTRAL GOLD LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AGD')" href="/asx/share-price-research/company/AGD">AGD</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ANZ')" href="/asx/share-price-research/company/ANZ">ANZ</a></td>
+	  <td>Banks</td>
+    </tr><tr>
+	  <td>AUSTRALIA UNITED MINING LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AYM')" href="/asx/share-price-research/company/AYM">AYM</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUSTRALIAN AGRICULTURAL COMPANY LIMITED.</td>
+	  <td><a onclick="trackAsxCodeClick('AAC')" href="/asx/share-price-research/company/AAC">AAC</a></td>
+	  <td>Food, Beverage &amp; Tobacco</td>
+    </tr><tr>
+	  <td>AUSTRALIAN AGRICULTURAL PROJECTS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AAP')" href="/asx/share-price-research/company/AAP">AAP</a></td>
+	  <td>Food, Beverage &amp; Tobacco</td>
+    </tr><tr>
+	  <td>AUSTRALIAN BAUXITE LIMITED.</td>
+	  <td><a onclick="trackAsxCodeClick('ABX')" href="/asx/share-price-research/company/ABX">ABX</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUSTRALIAN COMMONWEALTH GOVERNMENT LOANS</td>
+	  <td><a onclick="trackAsxCodeClick('XCL')" href="/asx/share-price-research/company/XCL">XCL</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>AUSTRALIAN DAIRY NUTRITIONALS GROUP</td>
+	  <td><a onclick="trackAsxCodeClick('AHF')" href="/asx/share-price-research/company/AHF">AHF</a></td>
+	  <td>Food, Beverage &amp; Tobacco</td>
+    </tr><tr>
+	  <td>AUSTRALIAN ENHANCED INCOME FUND</td>
+	  <td><a onclick="trackAsxCodeClick('AYF')" href="/asx/share-price-research/company/AYF">AYF</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>AUSTRALIAN ETHICAL INVESTMENT LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AEF')" href="/asx/share-price-research/company/AEF">AEF</a></td>
+	  <td>Diversified Financials</td>
+    </tr><tr>
+	  <td>AUSTRALIAN FINANCE GROUP LTD</td>
+	  <td><a onclick="trackAsxCodeClick('AFG')" href="/asx/share-price-research/company/AFG">AFG</a></td>
+	  <td>Banks</td>
+    </tr><tr>
+	  <td>AUSTRALIAN FOUNDATION INVESTMENT COMPANY LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AFI')" href="/asx/share-price-research/company/AFI">AFI</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>AUSTRALIAN GOVERNANCE &amp; ETHICAL INDEX FUND</td>
+	  <td><a onclick="trackAsxCodeClick('AGM')" href="/asx/share-price-research/company/AGM">AGM</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>AUSTRALIAN LEADERS FUND LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ALF')" href="/asx/share-price-research/company/ALF">ALF</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>AUSTRALIAN MINES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AUZ')" href="/asx/share-price-research/company/AUZ">AUZ</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUSTRALIAN PACIFIC COAL LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AQC')" href="/asx/share-price-research/company/AQC">AQC</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUSTRALIAN PHARMACEUTICAL INDUSTRIES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('API')" href="/asx/share-price-research/company/API">API</a></td>
+	  <td>Health Care Equipment &amp; Services</td>
+    </tr><tr>
+	  <td>AUSTRALIAN POTASH LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('APC')" href="/asx/share-price-research/company/APC">APC</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUSTRALIAN PRIMARY HEMP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('APH')" href="/asx/share-price-research/company/APH">APH</a></td>
+	  <td>Pharmaceuticals, Biotechnology &amp; Life Sciences</td>
+    </tr><tr>
+	  <td>AUSTRALIAN RURAL CAPITAL LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ARC')" href="/asx/share-price-research/company/ARC">ARC</a></td>
+	  <td>Diversified Financials</td>
+    </tr><tr>
+	  <td>AUSTRALIAN SILICA QUARTZ GROUP LTD</td>
+	  <td><a onclick="trackAsxCodeClick('ASQ')" href="/asx/share-price-research/company/ASQ">ASQ</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUSTRALIAN UNITED INVESTMENT COMPANY LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AUI')" href="/asx/share-price-research/company/AUI">AUI</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>AUSTRALIAN UNITY LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AYU')" href="/asx/share-price-research/company/AYU">AYU</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>AUSTRALIAN UNITY OFFICE FUND</td>
+	  <td><a onclick="trackAsxCodeClick('AOF')" href="/asx/share-price-research/company/AOF">AOF</a></td>
+	  <td>Real Estate</td>
+    </tr><tr>
+	  <td>AUSTRALIAN VANADIUM LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AVL')" href="/asx/share-price-research/company/AVL">AVL</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUSTRALIAN VINTAGE LTD</td>
+	  <td><a onclick="trackAsxCodeClick('AVG')" href="/asx/share-price-research/company/AVG">AVG</a></td>
+	  <td>Food, Beverage &amp; Tobacco</td>
+    </tr><tr>
+	  <td>AUSTRALIAN WHISKY HOLDINGS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AWY')" href="/asx/share-price-research/company/AWY">AWY</a></td>
+	  <td>Food, Beverage &amp; Tobacco</td>
+    </tr><tr>
+	  <td>AUSTRALIS OIL &amp; GAS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ATS')" href="/asx/share-price-research/company/ATS">ATS</a></td>
+	  <td>Energy</td>
+    </tr><tr>
+	  <td>AUSTSINO RESOURCES GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('ANS')" href="/asx/share-price-research/company/ANS">ANS</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUSWIDE BANK LTD</td>
+	  <td><a onclick="trackAsxCodeClick('ABA')" href="/asx/share-price-research/company/ABA">ABA</a></td>
+	  <td>Banks</td>
+    </tr><tr>
+	  <td>AUTECO MINERALS LTD</td>
+	  <td><a onclick="trackAsxCodeClick('AUT')" href="/asx/share-price-research/company/AUT">AUT</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AUTHORISED INVESTMENT FUND LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AIY')" href="/asx/share-price-research/company/AIY">AIY</a></td>
+	  <td>Not Applic</td>
+    </tr><tr>
+	  <td>AUTOSPORTS GROUP LIMITED.</td>
+	  <td><a onclick="trackAsxCodeClick('ASG')" href="/asx/share-price-research/company/ASG">ASG</a></td>
+	  <td>Retailing</td>
+    </tr><tr>
+	  <td>AVA RISK GROUP LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AVA')" href="/asx/share-price-research/company/AVA">AVA</a></td>
+	  <td>Technology Hardware &amp; Equipment</td>
+    </tr><tr>
+	  <td>AVECHO BIOTECHNOLOGY LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AVE')" href="/asx/share-price-research/company/AVE">AVE</a></td>
+	  <td>Pharmaceuticals, Biotechnology &amp; Life Sciences</td>
+    </tr><tr>
+	  <td>AVENIRA LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AEV')" href="/asx/share-price-research/company/AEV">AEV</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AVENTUS GROUP</td>
+	  <td><a onclick="trackAsxCodeClick('AVN')" href="/asx/share-price-research/company/AVN">AVN</a></td>
+	  <td>Real Estate</td>
+    </tr><tr>
+	  <td>AVIRA RESOURCES LTD</td>
+	  <td><a onclick="trackAsxCodeClick('AVW')" href="/asx/share-price-research/company/AVW">AVW</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AVITA MEDICAL LTD</td>
+	  <td><a onclick="trackAsxCodeClick('AVH')" href="/asx/share-price-research/company/AVH">AVH</a></td>
+	  <td>Pharmaceuticals, Biotechnology &amp; Life Sciences</td>
+    </tr><tr>
+	  <td>AVJENNINGS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AVJ')" href="/asx/share-price-research/company/AVJ">AVJ</a></td>
+	  <td>Real Estate</td>
+    </tr><tr>
+	  <td>AVZ MINERALS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AVZ')" href="/asx/share-price-research/company/AVZ">AVZ</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AXIOM MINING LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AVQ')" href="/asx/share-price-research/company/AVQ">AVQ</a></td>
+	  <td>Materials</td>
+    </tr><tr>
+	  <td>AXIOM PROPERTIES LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AXI')" href="/asx/share-price-research/company/AXI">AXI</a></td>
+	  <td>Real Estate</td>
+    </tr><tr>
+	  <td>AZURE HEALTH TECHNOLOGY LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AZT')" href="/asx/share-price-research/company/AZT">AZT</a></td>
+	  <td>Software &amp; Services</td>
+    </tr><tr>
+	  <td>AZURE HEALTHCARE LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AZV')" href="/asx/share-price-research/company/AZV">AZV</a></td>
+	  <td>Health Care Equipment &amp; Services</td>
+    </tr><tr>
+	  <td>AZURE MINERALS LIMITED</td>
+	  <td><a onclick="trackAsxCodeClick('AZS')" href="/asx/share-price-research/company/AZS">AZS</a></td>
+	  <td>Materials</td>
+    </tr>
+  </table>
+    
+    <p><a href="listedCompanies.do?coName=0-9">0-9</a> | <a href="listedCompanies.do?coName=A">A</a> | <a href="listedCompanies.do?coName=B">B</a> | <a href="listedCompanies.do?coName=C">C</a> | <a href="listedCompanies.do?coName=D">D</a> | <a href="listedCompanies.do?coName=E">E</a> | <a href="listedCompanies.do?coName=F">F</a> | <a href="listedCompanies.do?coName=G">G</a> | <a href="listedCompanies.do?coName=H">H</a> | <a href="listedCompanies.do?coName=I">I</a> | <a href="listedCompanies.do?coName=J">J</a> | <a href="listedCompanies.do?coName=K">K</a> | <a href="listedCompanies.do?coName=L">L</a> | <a href="listedCompanies.do?coName=M">M</a> | <a href="listedCompanies.do?coName=N">N</a> | <a href="listedCompanies.do?coName=O">O</a> | <a href="listedCompanies.do?coName=P">P</a> | <a href="listedCompanies.do?coName=Q">Q</a> | <a href="listedCompanies.do?coName=R">R</a> | <a href="listedCompanies.do?coName=S">S</a> | <a href="listedCompanies.do?coName=T">T</a> | <a href="listedCompanies.do?coName=U">U</a> | <a href="listedCompanies.do?coName=V">V</a> | <a href="listedCompanies.do?coName=W">W</a> | <a href="listedCompanies.do?coName=X">X</a> | <a href="listedCompanies.do?coName=Y">Y</a> | <a href="listedCompanies.do?coName=Z">Z</a>
+    </p>
+  
+
+
+		
+
+                <!-- end content -->
+
+
+
+
+
+
+
+	            </div>
+            </div>
